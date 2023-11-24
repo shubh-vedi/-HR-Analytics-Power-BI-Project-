@@ -33,10 +33,10 @@ The primary goal of this project is to employ HR analytics methodologies to addr
 ## Results
 
 ## Glimpse of the Dashboard 🎥
-![screenshot](https://github.com/shubh-vedi/-HR-Analytics-Power-BI-Project-/blob/main/1.JPG?raw=true)
+![screenshot](https://github.com/shubh-vedi/-HR-Analytics-Power-BI-Project-/blob/main/HR%20Analytics%20Atliq__page-0001.jpg)
 
 
-![screenshot](https://github.com/shubh-vedi/-HR-Analytics-Power-BI-Project-/blob/main/2.JPG?raw=true)
+![screenshot](https://github.com/shubh-vedi/-HR-Analytics-Power-BI-Project-/blob/main/HR%20Analytics%20Atliq__page-0002.jpg)
 
 Our HR Analytics project has yielded valuable insights, enabling organizations to make data-driven decisions. The outcomes include:
 
